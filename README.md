@@ -1,6 +1,9 @@
 # Karma code coverage simple example
 A Karma sample to setup code coverage with Istanbul.
 
+Setup preprocessors, reporters coverage and reporters options.
+More info can be found [here](https://karma-runner.github.io/0.8/config/coverage.html)
+
 karma.conf.js setup
 ```
 module.exports = function (config) {
