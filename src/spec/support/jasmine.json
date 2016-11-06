@@ -1,0 +1,5 @@
+{
+  "spec_dir": "src/spec",
+  "stopSpecOnExpectationFailure": false,
+  "random": false
+}
