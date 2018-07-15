@@ -1,8 +1,9 @@
 # Karma code coverage simple example
+Related blog post can be found [here](http://codereform.com/blog/post/unit-test-code-with-jasmine-and-code-coverage-with-karma-coverage-using-istanbul/)
+
 A Karma sample to setup code coverage with Istanbul.
 
 Setup preprocessors, reporters coverage and reporters options.
-More info can be found [here](https://karma-runner.github.io/0.8/config/coverage.html)
 
 karma.conf.js setup
 ```
